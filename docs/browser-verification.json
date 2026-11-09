@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checks": [
+    "phrase editing",
+    "playback and stop",
+    "texture selection",
+    "real WAV download",
+    "SVG print download",
+    "blank input",
+    "sample phrase buttons",
+    "390px overflow",
+    "reduced motion"
+  ],
+  "pageErrors": []
+}
